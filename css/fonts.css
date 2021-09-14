@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+
+@font-face {
+	font-family: 'Gotham';
+	src: url('../fonts/gotham-black.eot');
+	src: local('☺'), url('../fonts/gotham-black.woff') format('woff'), url('../fonts/gotham-black.ttf') format('truetype'), url('../fonts/gotham-black.svg') format('svg');
+	font-weight: 900;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'BrandonGrotesque';
+	src: url('../fonts/BrandonGrotesque-Bold.eot');
+	src: local('☺'), url('../fonts/BrandonGrotesque-Bold.woff') format('woff'), url('../fonts/BrandonGrotesque-Bold.ttf') format('truetype'), url('../fonts/BrandonGrotesque-Bold.svg') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
